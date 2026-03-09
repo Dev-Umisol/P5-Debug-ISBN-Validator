@@ -60,4 +60,4 @@ isbn-validator/
 └── README.md
 ```
 
-*Part of my Python learning journey 🐍 — practising code reading, debugging, and understanding existing logic*
+*Part of my Python learning journey 🐍 — practicing code reading, debugging, and understanding existing logic*
